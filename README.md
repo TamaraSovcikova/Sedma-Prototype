@@ -1,3 +1,3 @@
-# Created a Slovak card game called "Sedma" in c#.
+# Sedma (C# prototype)
 
-Sadly the files got all messed up so i had to copy the code into a new program, therefore you cannot see any of my commits.
+The first version of Sedma, a card game, written in C#. It was later rebuilt as a real-time multiplayer web game: [Sedma](https://github.com/TamaraSovcikova/Sedma).
